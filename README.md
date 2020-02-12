@@ -4,3 +4,6 @@ Reversi is a strategy board game for two players, played on an 8×8 uncheckered 
 
 ![alt text] (https://raw.githubusercontent.com/lpjambrina/Reversi/master/GraphicalUserInterface.png)
 
+![alt tag](http://url/to/GraphicalUserInterface.png)
+
+![alt tag](raw.githubusercontent.com/lpjambrina/Reversi/master/GraphicalUserInterface.png)
